@@ -1,9 +1,9 @@
 # hotel_system_sophomore_project———酒店管理系统_大二期末项目
 ###### 完成日期：2019-6-12
 ## 开发配置环境
-- 开发工具：MyEclipse
-- 数据库：MySQL
-- 相关技术：JavaWeb，Tomcat，JSP技术，Bootstrap框架
+- **开发工具**：MyEclipse
+- **数据库**：MySQL
+- **相关技术**：JavaWeb，Tomcat，JSP技术，Bootstrap框架
 ## 功能设计
 ### 会员用户主要功能
 - 注册
@@ -19,4 +19,4 @@
 - 入住管理
 - 会员管理
 - 记录管理
--留言管理
+- 留言管理
