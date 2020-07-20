@@ -1,0 +1,29 @@
+#mainbody
+{
+background-color:rgb(203,198,204);
+}
+#black_text
+{
+	color:black;
+	font-size:25px;
+}
+#pad
+{
+padding-top:10%;
+padding-right:15%;
+padding-left:15%;
+padding-bottom:15%;
+}
+.pad_result
+{
+padding-top:10%;
+padding-right:15%;
+padding-left:15%;
+padding-bottom:15%;
+color:black;
+}
+#resulttext
+{
+	font-size:25px;
+	color:black;
+}
