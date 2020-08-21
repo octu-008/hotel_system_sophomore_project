@@ -3,7 +3,7 @@
 ## 开发配置环境
 - **开发工具**：MyEclipse
 - **数据库**：MySQL
-- **相关技术**：JavaWeb，Tomcat，JSP技术，Bootstrap框架
+- **相关技术**：JavaWeb，Tomcat，JSP，Bootstrap
 ## 功能设计
 ### 会员用户主要功能
 - 注册
@@ -20,3 +20,4 @@
 - 会员管理
 - 记录管理
 - 留言管理
+### 部分页面和功能展示
