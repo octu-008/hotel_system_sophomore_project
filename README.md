@@ -21,3 +21,7 @@
 - 记录管理
 - 留言管理
 ### 部分页面和功能展示
+![image](https://github.com/octu-008/hotel_system_sophomore_project/blob/master/normal_hotel/screenshot/p1.png)
+![image](https://github.com/octu-008/hotel_system_sophomore_project/blob/master/normal_hotel/screenshot/p2.png)
+![image](https://github.com/octu-008/hotel_system_sophomore_project/blob/master/normal_hotel/screenshot/p3.png)
+![image](https://github.com/octu-008/hotel_system_sophomore_project/blob/master/normal_hotel/screenshot/p4.png)
