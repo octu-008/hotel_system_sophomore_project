@@ -4,7 +4,7 @@
 - **开发工具**：MyEclipse
 - **数据库**：MySQL
 - **相关技术**：JavaWeb，Tomcat，JSP，Bootstrap
-## 功能设计
+## 功能需求
 ### 会员用户主要功能
 - 注册
 - 登录
